@@ -1,0 +1,13 @@
+ID de la venta: 1 | Costo total: 83.39 USD
+ID de la venta: 2 | Costo total: 67.57 USD
+ID de la venta: 3 | Costo total: 144.74 USD
+ID de la venta: 4 | Costo total: 87.23 USD
+ID de la venta: 5 | Costo total: 94.33 USD
+ID de la venta: 6 | Costo total: 239.04 USD
+ID de la venta: 7 | Costo total: 182.11 USD
+ID de la venta: 8 | Costo total: 407.30 USD
+ID de la venta: 9 | Costo total: 851.43 USD
+ID de la venta: 10 | Costo total: 324.72 USD
+
+Costo total de todas las ventas: 2481.86 USD
+Tiempo de procesamiento: 0.00 segundos
